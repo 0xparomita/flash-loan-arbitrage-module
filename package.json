@@ -1,0 +1,8 @@
+{
+  "name": "flash-loan-arbitrage-module",
+  "version": "1.0.0",
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
